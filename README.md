@@ -1,16 +1,25 @@
-## Hi there 👋
+# Hi there, I'm Ilhom Ahmadjonov 👋
 
-<!--
-**Ilhomjon-developer/Ilhomjon-developer** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### 👨‍💻 About Me
+- 🔭 I’m a **Backend Developer** specializing in building robust web applications and RESTful APIs.
+- 🏢 Founder / Developer at **CodeTech**.
+- 🛠️ Working with **Python**, **Django**, **Django REST Framework**, and **PostgreSQL**.
+- 📍 Based in **Tashkent, Uzbekistan**.
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🛠️ Tech Stack & Tools
+
+**Languages & Frameworks:**
+`Python` `Django` `Django REST Framework (DRF)`
+
+**Databases & Caching:**
+`PostgreSQL` `SQL`
+
+**Tools:**
+ `Git` `GitHub` `Swagger`
+
+---
+
+### 📫 Connect with Me
+- 💬 **Telegram:** [@Akhmadjonov7879](https://t.me/Akhmadjonov7879)
