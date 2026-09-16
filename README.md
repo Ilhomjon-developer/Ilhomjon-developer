@@ -2,7 +2,6 @@
 
 ### 👨‍💻 About Me
 - 🔭 I’m a **Backend Developer** specializing in building robust web applications and RESTful APIs.
-- 🏢 Founder / Developer at **CodeTech**.
 - 🛠️ Working with **Python**, **Django**, **Django REST Framework**, and **PostgreSQL**.
 - 📍 Based in **Tashkent, Uzbekistan**.
 
